@@ -1,6 +1,8 @@
 # FertilNet
 
-A Hierarchical Knowledge Distillation Framework for Lightweight Real-Time Soil Fertility Prediction.
+Hierarchical Knowledge Distillation Framework for Lightweight Real-Time Soil Fertility Prediction
+
+![FertilNet Architecture](images/architecture.png)
 
 ## Overview
 
